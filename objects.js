@@ -1,2 +1,2 @@
-playlist = {rihanna: "diamonds"
+var playlist = {rihanna: "diamonds"
 }
